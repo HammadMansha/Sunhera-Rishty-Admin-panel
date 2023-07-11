@@ -1,0 +1,6 @@
+package com.example.matrimonial_admin
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
